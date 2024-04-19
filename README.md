@@ -10,7 +10,7 @@
 ## Introduction <a name="introduction"></a>
 This repository contains some simple examples of using the OpenAI API to explore simple ordinary differential equations and implemenmt solutions in python.
 
-## Python Environent <a name="environment"></a>
+## Python Environment <a name="environment"></a>
 This code requires the openai API. This can be set up using conda.
 
     conda create --name llm_apis python=3
